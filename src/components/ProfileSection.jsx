@@ -45,7 +45,7 @@ const ProfileSection = () => {
         </Typography>
         <Typography variant="h6" color="text.secondary" gutterBottom>
           <Typewriter
-            words={['Front-End Developer', 'React Developer', 'UI/UX Designing']}
+            words={['Front-End Developer', 'React Developer', 'UI/UX Designer']}
             loop
             cursor
             cursorStyle="|"
